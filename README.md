@@ -1,3 +1,4 @@
+<img width="397" height="97" alt="Screenshot 2026-04-12 173504" src="https://github.com/user-attachments/assets/f52067fb-816f-48a5-b2cb-3a4f573cffde" />
 # Simple QoS Priority Controller using SDN
 
 ## Problem Statement
@@ -130,7 +131,8 @@ INFO:forwarding.qos_controller:Low priority rule installed for all other traffic
 ## Proof of Execution
 
 ### POX Controller Running
-![POX Controller](screenshots/pox_running.png)<img width="268" height="57" alt="Screenshot 2026-04-12 174619" src="https://github.com/user-attachments/assets/6112d1b3-4d47-4d51-bcb9-9bb7737b3f8d" />
+![POX Controller](screenshots/pox_running.png)![Uploading Screenshot 2026-04-12 173504.png…]()
+
 
 
 ### Pingall Results  
